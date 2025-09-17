@@ -1,17 +1,3 @@
-'''
-Author:     AI ML Developer
-LinkedIn:   https://www.linkedin.com/in/softdev-niyas/
-
-Copyright (C) 2024 AI ML Developer
-
-License:    GNU Affero General Public License
-            https://www.gnu.org/licenses/agpl-3.0.en.html
-            
-GitHub:     https://github.com/niyas-softdev
-
-version:    24.12.29.12.30
-'''
-
 
 # Imports
 
